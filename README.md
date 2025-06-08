@@ -1,6 +1,6 @@
 # PITCHING Backend
 
-> 학생들의 협업을 위한 디스코드형 플랫폼 백엔드 (AI 발표 피드백 기능 제공)
+> 학생들의 협업을 위한 디스코드형 플랫폼 with AI 발표 피드백 기능
 
 ## 프로젝트 개요
 
@@ -32,7 +32,7 @@
 ## 기술적 특징
 
 ### Spring WebFlux 선택 이유
-채팅 시스템에서 대량 동시 연결 처리를 위한 비동기 처리 최적화
+- 채팅 시스템에서 대량 동시 연결 처리를 위한 비동기 처리 최적화
 
 ### 데이터베이스 전략
 - **MySQL**: 사용자 정보, 채팅방 메타데이터
@@ -43,9 +43,6 @@
 - [해결 과정 문서](https://www.notion.so/Race-condition-e3d26441fda04d658b10b747c93bb8f3)
 
 ### 테스트
-```bash
-./gradlew test
-```
 - Jacoco 테스트 커버리지 측정
 - [테스트 커버리지 분석](https://www.notion.so/Test-Coverage-136e732830cb80f29762c88b91129ad1)
 
@@ -53,3 +50,4 @@
 - [프로젝트 문서화](https://www.notion.so/PITCHING-1fee732830cb8082b66df4fc7dbef220)
 - [ERD 설계](https://www.notion.so/ERD-976c7dc680224bcb80eb1e6cf44011f0)
 - [채팅 시스템 아키텍처](https://www.notion.so/10de732830cb80f0a454e3fef277871c)
+- [Figma를 통한 UI/UX Design](https://storm-geography-e77.notion.site/Figma-2d37535122944b5cbf7040b58ee7dc83?source=copy_link)
