@@ -37,7 +37,7 @@
 - **DynamoDB**: 채팅 메시지 (높은 처리량, 낮은 지연시간)
 
 ### Race Condition 해결
-채팅방 인원 제한 시 동시성 문제를 Redis 분산 락으로 해결
+- 채팅방 인원 제한 시 동시성 문제를 Redis 분산 락으로 해결
 - [해결 과정 문서](https://www.notion.so/Race-condition-e3d26441fda04d658b10b747c93bb8f3)
 
 ### 테스트
