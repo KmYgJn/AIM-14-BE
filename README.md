@@ -51,3 +51,16 @@
 - [ERD 설계](https://www.notion.so/ERD-976c7dc680224bcb80eb1e6cf44011f0)
 - [채팅 시스템 아키텍처](https://www.notion.so/10de732830cb80f0a454e3fef277871c)
 - [Figma를 통한 UI/UX Design](https://storm-geography-e77.notion.site/Figma-2d37535122944b5cbf7040b58ee7dc83?source=copy_link)
+
+## 홈 화면 (로그인 창)
+<img width="1401" alt="Screenshot 2025-06-08 at 8 41 03 PM" src="https://github.com/user-attachments/assets/3b6dd32f-ebe1-4dfe-972f-b082223725c1" />
+
+## 로그인 후 채팅 화면
+<img width="1406" alt="Screenshot 2025-06-08 at 8 41 53 PM" src="https://github.com/user-attachments/assets/087f1932-3d53-460a-a327-d14aa11fdbef" />
+
+## 회원 정보 수정 화면
+<img width="1408" alt="Screenshot 2025-06-08 at 8 42 21 PM" src="https://github.com/user-attachments/assets/5e4d819f-cd1b-43b8-a548-428174b0b53d" />
+
+
+
+
