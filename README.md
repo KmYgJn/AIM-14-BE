@@ -14,7 +14,7 @@
 - **RabbitMQ, WebSocket, Redis**
 - **OAuth2** (Naver, Kakao, Google)
 
-## 주요 기능
+## 주요 맡은 기능
 
 ### 1. 인증 시스템
 - JWT (Access + Refresh Token) 기반 무상태 인증
@@ -25,9 +25,7 @@
 - RabbitMQ 메시지 큐잉
 - DynamoDB 채팅 이력 저장
 
-### 3. AI 발표 피드백
-- 음성/영상 데이터 분석
-- 실시간 피드백 제공
+### 3. 인증 시스템 및 채팅 Front
 
 ## 기술적 특징
 
