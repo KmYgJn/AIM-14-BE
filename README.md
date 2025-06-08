@@ -49,7 +49,7 @@
 ## 관련 링크
 - [프로젝트 문서화](https://www.notion.so/PITCHING-1fee732830cb8082b66df4fc7dbef220)
 - [ERD 설계](https://www.notion.so/ERD-976c7dc680224bcb80eb1e6cf44011f0)
-- [채팅 시스템 아키텍처](https://www.notion.so/10de732830cb80f0a454e3fef277871c)
+- [시스템 아키텍처](https://www.notion.so/10de732830cb80f0a454e3fef277871c)
 - [Figma를 통한 UI/UX Design](https://storm-geography-e77.notion.site/Figma-2d37535122944b5cbf7040b58ee7dc83?source=copy_link)
 
 ## 홈 화면 (로그인 창)
