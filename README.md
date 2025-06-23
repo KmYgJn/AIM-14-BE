@@ -49,6 +49,23 @@
 - [테스트 커버리지 분석](https://www.notion.so/Test-Coverage-136e732830cb80f29762c88b91129ad1)
 <br/>
 
+## 협업
+
+### 1. 회의
+- 데일리 스크럼, 스프린트 회의, 스프린트 회고를 통해 소통의 창구를 만듦
+
+### 2. Jira/Notion
+- Jira는 각 팀원의 ticket의 todo/progress/done 상태를 통해 작업 상태를 확인할 수 있도록 함.
+- 회의 및 진행상황에서 생긴 issue는 notion을 통해 문서화
+
+### 3. PR
+- 코드 품질 향상
+- 지식 공유 및 학습
+- 협업 및 소통 증진
+- 책임감과 소유 의식 강화
+- 위의 여러 목적을 이룰 수 있는 단계라고 생각하고, PR 문화 적용
+
+
 ## 관련 링크
 - [프로젝트 문서화](https://www.notion.so/PITCHING-1fee732830cb8082b66df4fc7dbef220)
 - [ERD 설계](https://www.notion.so/ERD-976c7dc680224bcb80eb1e6cf44011f0)
